@@ -83,7 +83,6 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-                <p>Testing Stash</p>
                 <div class="links">
                     <a href="{{ url('/blog') }}">Blog</a>
                     <a href="https://laravel.com/docs">Docs</a>
