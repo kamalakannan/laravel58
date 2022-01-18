@@ -7,7 +7,7 @@
         <title>Module Blog</title>
 
        {{-- Laravel Mix - CSS File --}}
-       {{-- <link rel="stylesheet" href="{{ mix('css/blog.css') }}"> --}}
+        <link rel="stylesheet" href="{{ mix('css/blog.css') }}">
 
     </head>
     <body>
